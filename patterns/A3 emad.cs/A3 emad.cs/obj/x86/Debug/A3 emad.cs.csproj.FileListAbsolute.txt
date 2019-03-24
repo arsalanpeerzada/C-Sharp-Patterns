@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\visual\A3 emad.cs\A3 emad.cs\bin\Debug\A3 emad.cs.exe
+D:\Visual Studio 2010\visual\A3 emad.cs\A3 emad.cs\bin\Debug\A3 emad.cs.pdb
+D:\Visual Studio 2010\visual\A3 emad.cs\A3 emad.cs\obj\x86\Debug\A3 emad.cs.exe
+D:\Visual Studio 2010\visual\A3 emad.cs\A3 emad.cs\obj\x86\Debug\A3 emad.cs.pdb
+D:\Visual Studio 2010\visual\A3 emad.cs\A3 emad.cs\obj\x86\Debug\A3 emad.cs.csprojResolveAssemblyReference.cache
+F:\DUMP\C#\CompletePrograms\patterns\A3 emad.cs\A3 emad.cs\obj\x86\Debug\A3 emad.cs.exe
